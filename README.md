@@ -1,6 +1,6 @@
 # Hi, I'm Vishmi Vasana 👋
 
-**Age:** 21 | **Field:** Software Engineering
+**Age:** 22 | **Field:** Software Engineering
 
 Welcome to my GitHub profile! I'm a passionate software engineering student dedicated to building innovative solutions and continuously improving my coding skills.
 
