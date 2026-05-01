@@ -52,6 +52,8 @@ I work on various projects to apply my learning and build a strong portfolio. Ch
 
 ## Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishmi-hewamanna-b57828311)
+
 I'm always open to:
 - Collaborations on interesting projects
 - Discussions about software engineering and technology
